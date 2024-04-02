@@ -48,7 +48,7 @@ export const Home = () => {
                     </div>
                   </Link>
 
-                  <a target ='_blank' href="https://drive.google.com/file/d/1uz_ayCB1P4S9V-XTXcWrdncBNs-Xolsi/view?usp=sharing" id="button_h" className="ac_btn btn"> Download CV
+                  <a target ='_blank' href="https://drive.google.com/file/d/1EKXr6DnaEOVoFinukvpInOqAYOlO6mnU/view?usp=sharing" id="button_h" className="ac_btn btn"> Download CV
                   <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>
