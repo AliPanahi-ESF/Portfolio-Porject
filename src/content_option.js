@@ -117,7 +117,7 @@ const socialprofils = {
     facebook: "https://facebook.com",
     linkedin: "https://www.linkedin.com/in/alipanahi090/",
     twitter: "https://twitter.com",
-    myCv: "https://drive.google.com/file/d/1cs1dTyzBfJANY5QcgF1mdauIEXkQwoU6/view?usp=sharing",
+    myCv: "https://drive.google.com/file/d/1JgZb0euKNWxUFcyK4Vg6-NdM2tKJBxec/view?usp=sharing",
 };
 export {
     meta,
